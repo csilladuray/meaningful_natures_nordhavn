@@ -11,5 +11,5 @@ This toolbox contains codes we used for preprocessing PPGIS and photovoice data,
 - Preprocessing PPGIS data
 - Preprocessing Photovoice data collected through the Urban Belonging/Eye-Level City App
 - Exploration of textual data
-- Useful resources for working with QGIS and videos we shared with each other
+- Useful resources for working with QGIS and videos we shared with each other - available [here](https://drive.google.com/drive/folders/1ohNoe6evk_0q8DBzk_fZsWxMk5W12l59?usp=sharing)
 
