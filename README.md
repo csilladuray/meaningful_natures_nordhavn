@@ -14,5 +14,5 @@ This toolbox contains codes we used for preprocessing PPGIS and photovoice data,
 - Useful resources for working with QGIS and videos we shared with each other - available [here](https://drive.google.com/drive/folders/1ohNoe6evk_0q8DBzk_fZsWxMk5W12l59?usp=sharing)
 - [Photovoice data dashboard](https://tinyurl.com/livinglabnordhavn)*
 
-_Would you happen to build your analysis on our photovoice data, please cite us: Burgos-Thorsen, S., Gulsrud, N.M., & Duray, C. (2024) “Planning for People, Place, and Planet: Nature Futures in Developing Urban Areas.”_
+*_Would you happen to build your analysis on our photovoice data, please cite us:_ Burgos-Thorsen, S., Gulsrud, N.M., & Duray, C. (2024) “Planning for People, Place, and Planet: Nature Futures in Developing Urban Areas.”
 
